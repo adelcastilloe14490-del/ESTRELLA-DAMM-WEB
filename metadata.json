@@ -1,0 +1,6 @@
+{
+  "name": "The Unwritten Summer - Estrella Damm Campaign",
+  "description": "An elegant academic presentation website for the Estrella Damm advertising campaign 'The Unwritten Summer' by Carla Tomás, Mònica Ventura, Mariona Molera, and Álvaro del Castillo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
